@@ -20,12 +20,12 @@ We have IBM Company Attrition problem.The goal is to predict is employee left co
 
 Algoritm used :
 
-Linear regression
+Logistic regression
 
-Decision Tree
+Decision Tree Classifier
 
-Random forest
+Random forest Classifier
 
-Adaboost Regressor
+Adaboost Classifier
 
 Artificial Neural Network
